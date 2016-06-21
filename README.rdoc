@@ -1,7 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Oursite project Web-app
+
 
 Things you may want to cover:
 
