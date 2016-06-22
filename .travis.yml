@@ -6,8 +6,8 @@ os:
     - linux
 bundler_args: --retry=3 --jobs=3
 script: 
-    #    - bundle exec rake
-    - bundle exec rspec spec/
+        - bundle exec rake
+    #    - bundle exec rspec spec/
 before_install:
     - gem update --system
     - gem --version
