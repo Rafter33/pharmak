@@ -1,6 +1,6 @@
 == README
 
-Oursite project Web-app  [![Build Status](https://travis-ci.org/zt1983811/Oursite.svg?branch=master)](https://travis-ci.org/zt1983811/Oursite)
+Oursite project Web-app  {<img src="https://travis-ci.org/zt1983811/Oursite.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/zt1983811/Oursite]
 
 
 Things you may want to cover:
