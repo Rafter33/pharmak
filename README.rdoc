@@ -1,6 +1,6 @@
-== README
+== README  {<img src="https://travis-ci.org/zt1983811/Oursite.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/zt1983811/Oursite]
 
-Oursite project Web-app
+Oursite project Web-app 
 
 
 Things you may want to cover:
