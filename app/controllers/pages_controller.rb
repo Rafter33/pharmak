@@ -5,6 +5,6 @@ class PagesController < ApplicationController
   def about
   end
   
-  def articles
+  def items
   end
 end
