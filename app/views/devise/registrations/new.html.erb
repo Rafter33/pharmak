@@ -21,9 +21,19 @@
           <%= f.text_field :pharmacy_owner, autofocus: true, class: 'form-control' %>
         </div>
         
-        <div class="field form-group">
+         <div class="field form-group">
           <%= f.label :license_number %><br />
-          <%= f.email_field :license_number, autofocus: true, class: 'form-control' %>
+          <%= f.text_field :license_number, autofocus: true, class: 'form-control' %>
+        </div>
+        
+        <div class="field form-group">
+          <%= f.label :address %><br />
+          <%= f.text_field :address, autofocus: true, class: 'form-control' %>
+        </div>
+        
+        <div class="field form-group">
+          <%= f.label :phone_number %><br />
+          <%= f.text_field :phone_number, autofocus: true, class: 'form-control' %>
         </div>
         
         <div class="field form-group">
