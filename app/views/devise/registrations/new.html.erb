@@ -12,19 +12,13 @@
         </div>
       
         <div class="field form-group">
+          <%= f.label :name %><br />
+          <%= f.text_field :name, autofocus: true, class: 'form-control' %>
+        </div><div class="field form-group">
+          
           <%= f.label :pharmacy_banner %><br />
           <%= f.text_field :pharmacy_banner, autofocus: true, class: 'form-control' %>
-        </div>
-        
-        <div class="field form-group">
-          <%= f.label :pharmacy_owner %><br />
-          <%= f.text_field :pharmacy_owner, autofocus: true, class: 'form-control' %>
-        </div>
-        
-         <div class="field form-group">
-          <%= f.label :license_number %><br />
-          <%= f.text_field :license_number, autofocus: true, class: 'form-control' %>
-        </div>
+         </div>
         
         <div class="field form-group">
           <%= f.label :address %><br />
